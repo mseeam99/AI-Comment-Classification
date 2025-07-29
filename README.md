@@ -1,3 +1,10 @@
+
+
+
+https://github.com/user-attachments/assets/2c6b4aa5-d733-474c-aa5c-54e29a58edd0
+
+
+
 # Running the Application
 
 ## Go to below link and download Ollama from below link (YOU MUST)
